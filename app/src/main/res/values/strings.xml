@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random String Generator</string>
+    <string name="search_string">Enter String</string>
+    <string name="string_request">Search</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+</resources>
